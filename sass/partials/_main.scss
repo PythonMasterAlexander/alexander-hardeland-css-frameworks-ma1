@@ -1,3 +1,10 @@
+main {
+  h1 {
+  font-family: $heading-font;
+  text-align: center;
+  }
+}
+
 .col {
   border: solid $border-colour 2px;
   border-radius: 2px;

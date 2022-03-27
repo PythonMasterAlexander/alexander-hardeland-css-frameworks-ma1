@@ -1,3 +1,16 @@
+header .navbar-brand {
+  font-family: "IBM Plex Mono", monospace;
+}
+
+header .nav-link {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+main h1 {
+  font-family: "IBM Plex Mono", monospace;
+  text-align: center;
+}
+
 .col {
   border: solid #C32C72 2px;
   border-radius: 2px;
