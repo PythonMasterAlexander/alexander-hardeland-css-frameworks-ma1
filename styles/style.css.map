@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,IAAI,CAAC;EACH,MAAM,EAAE,KAAK,CDEC,OAAO,CCFQ,GAAG;EAChC,aAAa,EAAE,GAAG;CACnB",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/partials/_variables.scss",
+        "../sass/partials/_main.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
