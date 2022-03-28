@@ -1,9 +1,10 @@
 {
     "version": 3,
-    "mappings": "AEAA,AAAA,IAAI,CAAC;EACH,MAAM,EAAE,KAAK,CDEC,OAAO,CCFQ,GAAG;EAChC,aAAa,EAAE,GAAG;CACnB",
+    "mappings": "AEAA,AACE,MADI,CACJ,aAAa,CAAC;EACZ,WAAW,EDFA,eAAe,EAAE,SAAS;CCGtC;;AAHH,AAKE,MALI,CAKJ,SAAS,CAAC;EACR,WAAW,EDLH,eAAe,EAAE,UAAU;CCMpC;;ACPH,AACE,IADE,CACF,EAAE,CAAC;EACH,WAAW,EFFE,eAAe,EAAE,SAAS;EEGvC,UAAU,EAAE,MAAM;CACjB;;AAGH,AAAA,IAAI,CAAC;EACH,MAAM,EAAE,KAAK,CFLC,OAAO,CEKQ,GAAG;EAChC,aAAa,EAAE,GAAG;CACnB",
     "sources": [
         "../sass/style.scss",
         "../sass/partials/_variables.scss",
+        "../sass/partials/_header.scss",
         "../sass/partials/_main.scss"
     ],
     "names": [],
