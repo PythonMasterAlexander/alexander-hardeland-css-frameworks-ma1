@@ -11,8 +11,16 @@ main h1 {
   text-align: center;
 }
 
+.row {
+  gap: 20px;
+}
+
 .col {
   border: solid #C32C72 2px;
   border-radius: 2px;
+}
+
+h3 {
+  font-family: "IBM Plex Sans", sans-serif;
 }
 /*# sourceMappingURL=style.css.map */
