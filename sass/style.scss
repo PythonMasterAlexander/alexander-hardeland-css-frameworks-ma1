@@ -1,3 +1,4 @@
+@import "partials/header";
 @import "partials/custom";
 
 /*We only need to include the files from the code we used to build our html, Then we need to customise 
@@ -39,3 +40,5 @@ the code to include sass styles variables and so on*/
 @import "../scss/spinners";
 @import "../scss/utilities";
 @import "../scss/print";
+
+@import "partials/header";
