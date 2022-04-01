@@ -1,0 +1,24 @@
+.card {
+  border: $border-style;
+  border-radius: $border-radius;
+
+  &__heading {
+    font-family: $font-heading;
+  }
+
+  &__subheading {
+    font-family: $font-subheading;
+  }
+
+  &__paragraph {
+    font-family: $font-subheading;
+  }
+
+  &__link {
+    color: $navbar-light-active-color;
+  }
+
+  &__link--hover:hover {
+    color: darkblue;
+  }
+}

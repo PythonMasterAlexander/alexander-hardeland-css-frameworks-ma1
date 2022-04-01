@@ -1,5 +1,4 @@
 @import "partials/customs";
-@import "partials/main";
 
 @import "../scss/functions";
 @import "../scss/variables";
@@ -38,3 +37,7 @@
 @import "../scss/spinners";
 @import "../scss/utilities";
 @import "../scss/print";
+
+@import "partials/main";
+@import "partials/classes";
+@import "partials/navigation";
