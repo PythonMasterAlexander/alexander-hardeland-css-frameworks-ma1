@@ -10853,4 +10853,30 @@ body h3 {
 .card__link--hover:hover {
   color: darkblue;
 }
+
+@media (min-width: 500px) and (max-width: 1000px) {
+  .card {
+    width: 300px !important;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 2rem;
+  }
+  h3 {
+    text-align: center;
+  }
+  .main__flex-container, .footer__content-container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .footer__flex-container {
+    margin: 20px 0 !important;
+    padding: 0 !important;
+  }
+}
 /*# sourceMappingURL=style.css.map */
